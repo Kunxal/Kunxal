@@ -9,7 +9,7 @@ Course Work: Database and management system, Object-Oriented Programming, Softwa
 - 💞️ I’m looking to collaborate on hackathon event and other coding competetion 
 - 📫 How to reach me :
   phone : 6261169581
-  email : kunxalkumar@gmail.com
+  email : kunalinsh@gmail.com
 - 😄 Pronouns: he/him
   
 
