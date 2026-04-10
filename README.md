@@ -8,8 +8,8 @@ Course Work: Database and management system, Object-Oriented Programming, Softwa
 - 🌱 I’m currently learning MERN STACK and UI/UX designing
 - 💞️ I’m looking to collaborate on hackathon event and other coding competetion 
 - 📫 How to reach me :
-  phone : 6261169581
-  email : kunalinsh@gmail.com
+  phone : 93407 69949
+  email : Tomeshwarisahu515@gmail.com
 - 😄 Pronouns: he/him
   
 
