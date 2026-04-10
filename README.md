@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kunxal
+- 👋 Hi, I’m @Tomeshwari-02
 - 👀 I’m interested in coding since 7th standard i have expertise in the following :
 - Programming Languages: C and C++ (Proficient), JavaScript (Intermediate), Python (Advance)
 Database and Language: Experience in Mongo DB, MySQL, SQL (Intermediate)
