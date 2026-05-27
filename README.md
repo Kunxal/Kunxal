@@ -10,7 +10,7 @@ Course Work: Database and management system, Object-Oriented Programming, Softwa
 - 📫 How to reach me :
   phone : 93407 69949
   email : Tomeshwarisahu515@gmail.com
-- 😄 Pronouns: he/him
+- 😄 Pronouns: she/her
   
 
 <!---
