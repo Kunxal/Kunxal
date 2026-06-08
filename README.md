@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tomeshwari-02
+- 👋 Hi, I’m kunal
 - 👀 I’m interested in coding since 7th standard i have expertise in the following :
 - Programming Languages: C and C++ (Proficient), JavaScript (Intermediate), Python (Advance)
 Database and Language: Experience in Mongo DB, MySQL, SQL (Intermediate)
@@ -8,8 +8,8 @@ Course Work: Database and management system, Object-Oriented Programming, Softwa
 - 🌱 I’m currently learning MERN STACK and UI/UX designing
 - 💞️ I’m looking to collaborate on hackathon event and other coding competetion 
 - 📫 How to reach me :
-  phone : 93407 69949
-  email : Tomeshwarisahu515@gmail.com
+  phone : 6261169581
+  email : kunalinsh@gmail.com
 - 😄 Pronouns: she/her
   
 
