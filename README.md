@@ -10,7 +10,7 @@ Course Work: Database and management system, Object-Oriented Programming, Softwa
 - 📫 How to reach me :
   phone : 6261169581
   email : kunalinsh@gmail.com
-- 😄 Pronouns: she/her
+- 😄 Pronouns: he/him
   
 
 <!---
